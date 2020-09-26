@@ -995,7 +995,7 @@ def brute():
         print '-----------------------------------------------------------'
         try:
             email = raw_input('\x1b[1;96mID\x1b[1;95m/\x1b[1;95mEmail \x1b[1;95mTarget \x1b[1;95m:\x1b[1;95m ')
-            passw = raw_input('\x1b[1;95mWordlist \x1b[1;95m(Type--> ahk.txt) \x1b[1;95m: \x1b[1;95m')
+            passw = raw_input('\x1b[1;95mWordlist \x1b[1;95m(Type--> ahk.list) \x1b[1;95m: \x1b[1;95m')
             total = open(passw, 'r')
             total = total.readlines()
             print '------------------------------------------------------------'
