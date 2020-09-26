@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Tech Qaiser
+#The Credit For This Code Goes To Ijaz Afridi
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -56,36 +56,38 @@ P='\033[1;95m'
 Y='\033[1;93m'
 R='\033[1;94m'
 
-#Dev: qaiser
+#Dev: Ijaxo
 ##### LOGO #####
 logo = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m╭━━╮
+\033[1;93m╰┫┣╋╮
+\033[1;93m╱┃┃╰╋━━┳━━━╮
+\033[1;93m╱┃┃╭┫╭╮┣━━┃┃
+\033[1;93m╭┫┣┫┃╭╮┃┃━━┫
+\033[1;93m╰━━┫┣╯╰┻━━━╯
+\033[1;93m╱╱╭╯┃
+\033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :-  Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo2 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m╭━━╮
+\033[1;93m╰┫┣╋╮
+\033[1;93m╱┃┃╰╋━━┳━━━╮
+\033[1;93m╱┃┃╭┫╭╮┣━━┃┃
+\033[1;93m╭┫┣┫┃╭╮┃┃━━┫
+\033[1;93m╰━━┫┣╯╰┻━━━╯
+\033[1;93m╱╱╭╯┃
+\033[1;93m╱╱╰━╯
 
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
 
