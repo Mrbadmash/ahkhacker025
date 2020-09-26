@@ -753,7 +753,7 @@ def menu():
         time.sleep(0.05)
 	print "	   ID\033[1;91m:\033[1;93m"+id+"\x1b[1;93m              "
         time.sleep(0.05)
-        print "033[1;97m==========================\033[1;97m"
+        print "\033[1;97m==========================\033[1;97m"
         time.sleep(0.05)
 	print "1 .\x1b[1;94m\033[1;94mStart Cloning   "
         time.sleep(0.05)
